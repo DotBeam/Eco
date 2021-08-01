@@ -1,0 +1,13 @@
+name: Eco
+version: 1.0.1
+author: Beam
+main: de.beam.Eco.Main.Eco
+load: POSTWORLD
+loadbefore: [Vault]
+depend: [PlaceholderAPI]
+commands:
+   pay:
+   payall:
+   konto:
+   bank:
+     
